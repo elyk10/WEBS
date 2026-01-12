@@ -78,13 +78,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="src\WEBS.h" />
-    <ClInclude Include="src\WEBS\Application.h" />
-    <ClInclude Include="src\WEBS\Core.h" />
-    <ClInclude Include="src\WEBS\EntryPoint.h" />
+    <ClInclude Include="WEBS\src\WEBS.h" />
+    <ClInclude Include="WEBS\src\WEBS\Application.h" />
+    <ClInclude Include="WEBS\src\WEBS\Core.h" />
+    <ClInclude Include="WEBS\src\WEBS\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\WEBS\Application.cpp" />
+    <ClCompile Include="WEBS\src\WEBS\Application.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

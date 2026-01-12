@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\WEBS\Core.h">
+    <ClInclude Include="WEBS\src\WEBS\Core.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\WEBS\Application.h">
+    <ClInclude Include="WEBS\src\WEBS\Application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\WEBS.h">
+    <ClInclude Include="WEBS\src\WEBS.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\WEBS\EntryPoint.h">
+    <ClInclude Include="WEBS\src\WEBS\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\WEBS\Application.cpp">
+    <ClCompile Include="WEBS\src\WEBS\Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
